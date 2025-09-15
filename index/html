@@ -12,3 +12,8 @@ initial-scale=1.0" />
 journey</h3>
 </body>
 </html>
+<form
+action="mailto:john@resourcify.com"
+method="post"
+enctype="text/plain"
+></form>
