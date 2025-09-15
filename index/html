@@ -12,13 +12,3 @@ initial-scale=1.0" />
 journey</h3>
 </body>
 </html>
-
-<form action="mailto:jane@resourcify.com" method="post"
-enctype="text/plain">
-Name:<br />
-<input type="text" ="name" /><br />
-E-mail:<br />
-<input type="text" name="mail" /><br />
-<input type="submit" value="Subscribe" />
-<input type="reset" value="Reset" />
-</form>
